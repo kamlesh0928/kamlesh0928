@@ -16,7 +16,7 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 ## 📫 How to Reach Me
 
 - **Email:** kamleshprajapati0928@gmail.com
-- **LinkedIn:** [Kamlesh's LinkedIn](https://www.linkedin.com/in/kamlesh0928/)
+- **LinkedIn:** [Kamlesh5242](https://www.linkedin.com/in/kamlesh5242/)
 
 ## 🌱 Currently Learning
 

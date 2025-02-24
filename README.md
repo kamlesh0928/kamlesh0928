@@ -1,6 +1,6 @@
 # Hi there, I'm Kamlesh! 👋
 
-I'm a passionate software developer with a love for coding and problem-solving. Welcome to my GitHub profile!
+Hello, I am a 2nd year student at IIT Patna pursuing B.Sc. in Computer Science and Data Analytics. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
 
@@ -25,7 +25,3 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 ## 🤝 Let's Connect!
 
 Feel free to reach out if you want to collaborate on a project, need help with coding, or just want to chat about tech. I'm always open to new opportunities and connections!
-
----
-
-**Kamlesh**

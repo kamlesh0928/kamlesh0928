@@ -1,6 +1,6 @@
 # Hi there, I'm Kamlesh!
 
-Hello, I am a 3rd year student at IIT Patna pursuing B.Sc. in Computer Science and Data Analytics. Welcome to my GitHub profile!
+Hello, I am a 3rd year student at IIT Patna pursuing B.Sc. in Computer Science and Data Analytics. Welcome to my GitHub profile.
 
 ### Tech Stack & Tools
 

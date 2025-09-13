@@ -7,11 +7,11 @@ Hello, I am a 3rd year student at IIT Patna pursuing B.Sc. in Computer Science a
 <table>
   <tr>
     <td align="center" width="180"><strong>Frontend</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap" alt="Frontend Skills"></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" alt="Frontend Skills"></td>
   </tr>
   <tr>
     <td align="center"><strong>Backend & Databases</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=java,python,nodejs,postgres,mongodb,mysql" alt="Backend & Database Skills"></td>
+    <td><img src="https://skillicons.dev/icons?i=java,python,cpp,nodejs,postgres,mongodb,mysql" alt="Backend & Database Skills"></td>
   </tr>
   <tr>
     <td align="center"><strong>Mobile Development</strong></td>
@@ -23,7 +23,7 @@ Hello, I am a 3rd year student at IIT Patna pursuing B.Sc. in Computer Science a
   </tr>
   <tr>
     <td align="center"><strong>Tools & Languages</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,postman,cpp" alt="Tools & Languages"></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,postman" alt="Tools & Languages"></td>
   </tr>
 </table>
 

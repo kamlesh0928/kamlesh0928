@@ -1,31 +1,87 @@
-# Hi there, I'm Kamlesh!
+<a href="https://docs.google.com/document/d/1dNmpUZvLUiSKGK49ArbPkVLPLvYQV6LA/edit?usp=sharing&amp;ouid=116996054434630658919&amp;rtpof=true&amp;sd=true" target="_blank">
+  <img alt="Kamlesh Prajapati - Full Stack Developer" src="./assets/Hero_Image.png" width="100%" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
+</a>
 
-Hello, I am a 3rd year student at IIT Patna pursuing B.Sc. in Computer Science and Data Analytics. Welcome to my GitHub profile.
+<br><br>
 
-### Tech Stack & Tools
+## Projects
 
-<table>
-  <tr>
-    <td align="center" width="180"><strong>Frontend</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" alt="Frontend Skills"></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Backend & Databases</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=java,python,cpp,nodejs,postgres,mongodb,mysql" alt="Backend & Database Skills"></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Mobile Development</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" alt="Mobile Skills"></td>
-  </tr>
+<div align="center">
+  <table>
     <tr>
-    <td align="center"><strong>AI & Machine Learning</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" alt="AI/ML Skills"></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Tools & Languages</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,postman" alt="Tools & Languages"></td>
-  </tr>
-</table>
+      <!-- Project 1: Code_Parivartan -->
+      <td align="center" width="300">
+        <a href="https://github.com/kamlesh0928/code-parivartan" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamlesh0928&amp;repo=code-parivartan&amp;theme=radical&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=ffffff&amp;text_color=b8b8b8&amp;icon_color=ffffff" alt="Code Parivartan">
+        </a>
+        <br>
+        <img src="./assets/Code_Parivartan.png" alt="Code_Parivartan Preview" width="100%" style="border-radius:8px; margin:8px 0;">
+        <br>
+        <a href="https://github.com/kamlesh0928/code-parivartan" target="_blank">
+          <img src="./assets/View_Button.png" alt="View Code Parivartan" width="80" style="margin-top:8px;">
+        </a>
+      </td>
+      <!-- Project 2: Enery_Track -->
+      <td align="center" width="300">
+        <a href="https://github.com/kamlesh0928/energy-track" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamlesh0928&amp;repo=energy-track&amp;theme=radical&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=ffffff&amp;text_color=b8b8b8&amp;icon_color=ffffff" alt="Energy Track">
+        </a>
+        <br>
+        <img src="./assets/Enery_Track.jpg" alt="Energy Track Preview" width="100%" style="border-radius:8px; margin:8px 0;">
+        <br>
+        <a href="https://github.com/kamlesh0928/energy-track" target="_blank">
+          <img src="./assets/View_Button.png" alt="View Energy Track" width="80">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <!-- Project 3: Meetly -->
+      <td align="center" width="300">
+        <a href="https://github.com/kamlesh0928/meetly" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamlesh0928&amp;repo=meetly&amp;theme=radical&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=ffffff&amp;text_color=b8b8b8&amp;icon_color=ffffff" alt="Meetly">
+        </a>
+        <br>
+        <img src="./assets/Meetly.jpg" alt="Meetly Preview" width="100%" style="border-radius:8px; margin:8px 0;">
+        <br>
+        <a href="https://meetly-frontend-3qae.onrender.com/" target="_blank">
+          <img src="./assets/View_Button.png" alt="View Meetly Live" width="80">
+        </a>
+      </td>
+      <!-- Project 4: Chatup -->
+      <td align="center" width="300">
+        <a href="https://github.com/kamlesh0928/chatup" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamlesh0928&amp;repo=chatup&amp;theme=radical&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=ffffff&amp;text_color=b8b8b8&amp;icon_color=ffffff" alt="Chatup">
+        </a>
+        <br>
+        <img src="./assets/chatup.jpg" alt="Chatup Preview" width="100%" style="border-radius:8px; margin:8px 0;">
+        <br>
+        <a href="https://github.com/kamlesh0928/chatup" target="_blank">
+          <img src="./assets/View_Button.png" alt="View Chatup" width="80">
+        </a>
+      </td>
+    </tr>
+    <!-- More Projects Button -->
+    <tr>
+      <td colspan="2" align="center" style="padding: 24px 0;">
+        <a href="https://github.com/kamlesh0928?tab=repositories" target="_blank">
+          <img src="./assets/View_More.png" alt="More Projects" width="180">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+### Tools & Tech
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,mysql,mongodb,postgres,prisma,nodejs,react,nextjs,express,tailwind,bootstrap,git,github,postman,powershell,bash,c,cpp,java,python,vscode,docker,ai&amp;perline=12" alt="Tech Stack" />
+</p>
+
+<br>
+
+## GitHub Stats
 
 <p align="center">
   <img alt="Kamlesh's GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=kamlesh0928&custom_title=GitHub+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=b8b8b8&title_color=FFFFFF&icon_color=25D366">
@@ -34,9 +90,18 @@ Hello, I am a 3rd year student at IIT Patna pursuing B.Sc. in Computer Science a
 
 <br>
 
-### Let's Connect
+## Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kamlesh5242/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:kamleshprajapati0928@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/kamlesh5242/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:kamleshprajapati0928@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Feel free to reach out for collaborations, freelance projects, or just a tech chat!</i>
 </p>

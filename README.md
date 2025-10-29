@@ -96,7 +96,7 @@
 <h3>Tools & Tech</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,mysql,mongodb,postgres,prisma,nodejs,react,nextjs,express,tailwind,bootstrap,git,github,postman,powershell,bash,c,cpp,java,python,vscode,docker,ai&perline=12" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,mysql,mongodb,postgres,prisma,nodejs,react,nextjs,express,tailwind,bootstrap,git,github,postman,powershell,bash,c,cpp,java,python,vscode,docker,ai&perline=15" alt="Tech Stack">
 </p>
 
 <br>

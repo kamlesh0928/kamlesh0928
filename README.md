@@ -6,65 +6,57 @@
 
 ## Projects
 
-<div align="center">
-  <table>
+<div align="center" style="width:100%; display:flex; justify-content:center; align-items:center; flex-direction:column;">
+  <table style="border-collapse:separate; border-spacing:20px; max-width:1100px; width:100%;">
     <tr>
-      <!-- Project 1: Code_Parivartan -->
-      <td align="center" width="300">
+      <!-- Project 1: Code Parivartan -->
+      <td align="center" style="width:50%; background:#0d1117; border-radius:16px; padding:16px; box-shadow:0 0 8px rgba(255,255,255,0.1);">
         <a href="https://github.com/kamlesh0928/code-parivartan" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamlesh0928&amp;repo=code-parivartan&amp;theme=radical&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=ffffff&amp;text_color=b8b8b8&amp;icon_color=ffffff" alt="Code Parivartan">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamlesh0928&amp;repo=code-parivartan&amp;theme=radical&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=ffffff&amp;text_color=b8b8b8&amp;icon_color=ffffff" width="100%" alt="Code Parivartan">
         </a>
-        <br>
-        <img src="./assets/Code_Parivartan.png" alt="Code_Parivartan Preview" width="100%" style="border-radius:8px; margin:8px 0;">
-        <br>
+        <img src="./assets/Code_Parivartan.png" alt="Code_Parivartan Preview" width="100%" style="border-radius:12px; margin:12px 0; transition:transform 0.3s ease;"/>
         <a href="https://github.com/kamlesh0928/code-parivartan" target="_blank">
-          <img src="./assets/View_Button.png" alt="View Code Parivartan" width="80" style="margin-top:8px;">
+          <img src="./assets/View_Button.png" alt="View Code Parivartan" width="100" style="margin-top:8px;">
         </a>
       </td>
-      <!-- Project 2: Enery_Track -->
-      <td align="center" width="300">
+      <!-- Project 2: Energy Track -->
+      <td align="center" style="width:50%; background:#0d1117; border-radius:16px; padding:16px; box-shadow:0 0 8px rgba(255,255,255,0.1);">
         <a href="https://github.com/kamlesh0928/energy-track" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamlesh0928&amp;repo=energy-track&amp;theme=radical&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=ffffff&amp;text_color=b8b8b8&amp;icon_color=ffffff" alt="Energy Track">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamlesh0928&amp;repo=energy-track&amp;theme=radical&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=ffffff&amp;text_color=b8b8b8&amp;icon_color=ffffff" width="100%" alt="Energy Track">
         </a>
-        <br>
-        <img src="./assets/Enery_Track.jpg" alt="Energy Track Preview" width="100%" style="border-radius:8px; margin:8px 0;">
-        <br>
+        <img src="./assets/Enery_Track.jpg" alt="Energy Track Preview" width="100%" style="border-radius:12px; margin:12px 0; transition:transform 0.3s ease;">
         <a href="https://github.com/kamlesh0928/energy-track" target="_blank">
-          <img src="./assets/View_Button.png" alt="View Energy Track" width="80">
+          <img src="./assets/View_Button.png" alt="View Energy Track" width="100">
         </a>
       </td>
     </tr>
     <tr>
       <!-- Project 3: Meetly -->
-      <td align="center" width="300">
+      <td align="center" style="width:50%; background:#0d1117; border-radius:16px; padding:16px; box-shadow:0 0 8px rgba(255,255,255,0.1);">
         <a href="https://github.com/kamlesh0928/meetly" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamlesh0928&amp;repo=meetly&amp;theme=radical&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=ffffff&amp;text_color=b8b8b8&amp;icon_color=ffffff" alt="Meetly">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamlesh0928&amp;repo=meetly&amp;theme=radical&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=ffffff&amp;text_color=b8b8b8&amp;icon_color=ffffff" width="100%" alt="Meetly">
         </a>
-        <br>
-        <img src="./assets/Meetly.jpg" alt="Meetly Preview" width="100%" style="border-radius:8px; margin:8px 0;">
-        <br>
+        <img src="./assets/Meetly.jpg" alt="Meetly Preview" width="100%" style="border-radius:12px; margin:12px 0; transition:transform 0.3s ease;">
         <a href="https://meetly-frontend-3qae.onrender.com/" target="_blank">
-          <img src="./assets/View_Button.png" alt="View Meetly Live" width="80">
+          <img src="./assets/View_Button.png" alt="View Meetly Live" width="100">
         </a>
       </td>
       <!-- Project 4: Chatup -->
-      <td align="center" width="300">
+      <td align="center" style="width:50%; background:#0d1117; border-radius:16px; padding:16px; box-shadow:0 0 8px rgba(255,255,255,0.1);">
         <a href="https://github.com/kamlesh0928/chatup" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamlesh0928&amp;repo=chatup&amp;theme=radical&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=ffffff&amp;text_color=b8b8b8&amp;icon_color=ffffff" alt="Chatup">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamlesh0928&amp;repo=chatup&amp;theme=radical&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=ffffff&amp;text_color=b8b8b8&amp;icon_color=ffffff" width="100%" alt="Chatup">
         </a>
-        <br>
-        <img src="./assets/chatup.jpg" alt="Chatup Preview" width="100%" style="border-radius:8px; margin:8px 0;">
-        <br>
+        <img src="./assets/ChatUp.jpg" alt="Chatup Preview" width="100%" style="border-radius:12px; margin:12px 0; transition:transform 0.3s ease;">
         <a href="https://github.com/kamlesh0928/chatup" target="_blank">
-          <img src="./assets/View_Button.png" alt="View Chatup" width="80">
+          <img src="./assets/View_Button.png" alt="View Chatup" width="100">
         </a>
       </td>
     </tr>
     <!-- More Projects Button -->
     <tr>
-      <td colspan="2" align="center" style="padding: 24px 0;">
+      <td colspan="2" align="center" style="padding:32px 0;">
         <a href="https://github.com/kamlesh0928?tab=repositories" target="_blank">
-          <img src="./assets/View_More.png" alt="More Projects" width="180">
+          <img src="./assets/View_More.png" alt="More Projects" width="200" style="transition:transform 0.3s ease;">
         </a>
       </td>
     </tr>

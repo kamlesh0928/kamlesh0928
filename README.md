@@ -31,7 +31,7 @@
       <td style="padding: 16px; width: 50%; vertical-align: top; text-align: left;">
         <a href="https://github.com/kamlesh0928/energy-track" target="_blank">
           <img 
-            src="https://github-readme-stats.vercel.app/api/pin/?username=kamlesh0928&repo=energy-track&theme=radical&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=b8b8b8&icon_color=ffffff" 
+            src="https://github-readme-stats.vercel.app/api/pin/?username=kamlesh0928&repo=energy-track&theme=radical&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=b8b8b8&icon_color=ffffff"
             width="100%" 
             style="max-width:420px;">
         </a>

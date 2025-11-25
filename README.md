@@ -13,10 +13,10 @@
       <!-- Project 1 -->
       <td style="padding: 16px; width: 50%; vertical-align: top; text-align: left;">
         <a href="https://github.com/kamlesh0928/code-parivartan" target="_blank">
-          <img 
+          <!-- <img 
             src="https://github-readme-stats.vercel.app/api/pin/?username=kamlesh0928&repo=code-parivartan&theme=radical&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=b8b8b8&icon_color=ffffff" 
             width="100%" 
-            style="max-width:420px;">
+            style="max-width:420px;"> -->
         </a>
         <img 
           src="./assets/Code_Parivartan.png" 
@@ -30,10 +30,10 @@
       <!-- Project 2 -->
       <td style="padding: 16px; width: 50%; vertical-align: top; text-align: left;">
         <a href="https://github.com/kamlesh0928/energy-track" target="_blank">
-          <img 
+          <!-- <img 
             src="https://github-readme-stats.vercel.app/api/pin/?username=kamlesh0928&repo=energy-track&theme=radical&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=b8b8b8&icon_color=ffffff"
             width="100%" 
-            style="max-width:420px;">
+            style="max-width:420px;"> -->
         </a>
         <img 
           src="./assets/Enery_Track.jpg" 
@@ -49,10 +49,10 @@
       <!-- Project 3 -->
       <td style="padding: 16px; width: 50%; vertical-align: top; text-align: left;">
         <a href="https://github.com/kamlesh0928/meetly" target="_blank">
-          <img 
+          <!-- <img 
             src="https://github-readme-stats.vercel.app/api/pin/?username=kamlesh0928&repo=meetly&theme=radical&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=b8b8b8&icon_color=ffffff" 
             width="100%" 
-            style="max-width:420px;">
+            style="max-width:420px;"> -->
         </a>
         <img 
           src="./assets/Meetly.jpg" 
@@ -66,10 +66,10 @@
       <!-- Project 4 -->
       <td style="padding: 16px; width: 50%; vertical-align: top; text-align: left;">
         <a href="https://github.com/kamlesh0928/chatup" target="_blank">
-          <img 
+          <!-- <img 
             src="https://github-readme-stats.vercel.app/api/pin/?username=kamlesh0928&repo=chatup&theme=radical&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=b8b8b8&icon_color=ffffff" 
             width="100%" 
-            style="max-width:420px;">
+            style="max-width:420px;"> -->
         </a>
         <img 
           src="./assets/ChatUp.jpg" 
@@ -105,7 +105,7 @@
 <h2>GitHub Stats</h2>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kamlesh0928&custom_title=GitHub+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=b8b8b8&title_color=FFFFFF&icon_color=25D366" width="48%">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=kamlesh0928&custom_title=GitHub+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=b8b8b8&title_color=FFFFFF&icon_color=25D366" width="48%"> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamlesh0928&layout=compact&hide_border=true&bg_color=00000000&text_color=b8b8b8&custom_title=Top+Languages&title_color=FFFFFF" width="48%">
 </p>
 

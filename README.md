@@ -1,7 +1,7 @@
 <!-- Hero Section -->
 <p align="center">
   <a href="https://docs.google.com/document/d/1dNmpUZvLUiSKGK49ArbPkVLPLvYQV6LA/edit?usp=sharing" target="_blank">
-    <img src="./assets/Hero.svg" alt="Kamlesh Prajapati - Full Stack Developer" style="max-width:100%; border-radius:12px;">
+    <img src="./assets/Hero.png" alt="Kamlesh Prajapati - Full Stack Developer" style="max-width:100%; border-radius:12px;">
   </a>
 </p>
 

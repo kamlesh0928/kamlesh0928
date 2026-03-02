@@ -1,6 +1,6 @@
 <!-- Hero Section -->
 <p align="center">
-  <a href="https://drive.google.com/file/d/1S1iwK-8WnTEj1s4AddbiWaCSrYh1Z1hM/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1rlqYgfJO6ghPGNCVo1eQJv9t8xl3pkF1/view?usp=sharing" target="_blank">
     <img src="./assets/Hero.png" alt="Kamlesh Prajapati - Full Stack Developer" style="max-width:100%; border-radius:12px;">
   </a>
 </p>

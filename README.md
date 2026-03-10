@@ -1,43 +1,77 @@
-<!-- Hero Section -->
 <p align="center">
   <a href="https://drive.google.com/file/d/1rlqYgfJO6ghPGNCVo1eQJv9t8xl3pkF1/view?usp=sharing" target="_blank">
     <img src="./assets/Hero.png" alt="Kamlesh Prajapati - Full Stack Developer" style="max-width:100%; border-radius:12px;">
   </a>
 </p>
 
-<br>
+<p align="center">
+  <b><i>You can reach out anytime for freelance work, or discussions.</i></b><br><br>
+  <a href="https://linkedin.com/in/kamlesh5242"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/kamlesh09285242"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"></a>
+  <a href="mailto:kamleshprajapati0928@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-# Projects
+<hr>
+
+## 🚀 Projects
 
 <div align="center">
-  <table style="border-collapse: collapse; width: 100%; max-width: 900px;">
+  <table style="width: 100%; max-width: 900px;">
     <tr>
-      <!-- Project 1 -->
-      <td style="padding: 20px; width: 50%; vertical-align: top;">
-        <img src="./assets/Code_Parivartan.png" width="100%" style="border-radius:10px; margin-bottom:12px;">
+      <td width="50%" valign="top">
+        <a href="https://github.com/kamlesh0928/code-parivartan" target="_blank">
+          <img src="./assets/Code_Parivartan.png" width="100%" style="border-radius:10px;">
+        </a>
+      </td>
+      <td width="50%" valign="top" style="padding-left: 20px;">
+        <h3>Code Parivartan</h3>
+        <p>A brief 1-2 sentence description explaining what Code Parivartan does and the problem it solves.</p>
+        <p><b>Tech Stack:</b> React, Node.js, Express, MongoDB</p>
         <a href="https://github.com/kamlesh0928/code-parivartan" target="_blank">
           <img src="./assets/View_Button.png" width="85">
         </a>
       </td>
-      <!-- Project 2 -->
-      <td style="padding: 20px; width: 50%; vertical-align: top;">
-        <img src="./assets/Enery_Track.jpg" width="100%" style="border-radius:10px; margin-bottom:12px;">
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <a href="https://github.com/kamlesh0928/energy-track" target="_blank">
+          <img src="./assets/Enery_Track.jpg" width="100%" style="border-radius:10px;">
+        </a>
+      </td>
+      <td width="50%" valign="top" style="padding-left: 20px;">
+        <h3>Energy Track</h3>
+        <p>A brief 1-2 sentence description explaining what Energy Track is and your role in building it.</p>
+        <p><b>Tech Stack:</b> Python, Flask, Pandas</p>
         <a href="https://github.com/kamlesh0928/energy-track" target="_blank">
           <img src="./assets/View_Button.png" width="85">
         </a>
       </td>
     </tr>
     <tr>
-      <!-- Project 3 -->
-      <td style="padding: 20px; width: 50%; vertical-align: top;">
-        <img src="./assets/Meetly.jpg" width="100%" style="border-radius:10px; margin-bottom:12px;">
+      <td width="50%" valign="top">
+        <a href="https://meetly-frontend-3qae.onrender.com/" target="_blank">
+          <img src="./assets/Meetly.jpg" width="100%" style="border-radius:10px;">
+        </a>
+      </td>
+      <td width="50%" valign="top" style="padding-left: 20px;">
+        <h3>Meetly</h3>
+        <p>A video conferencing or scheduling application. Mention any real-time features you implemented here.</p>
+        <p><b>Tech Stack:</b> React, WebRTC, Socket.io</p>
         <a href="https://meetly-frontend-3qae.onrender.com/" target="_blank">
           <img src="./assets/View_Button.png" width="85">
         </a>
       </td>
-      <!-- Project 4 -->
-      <td style="padding: 20px; width: 50%; vertical-align: top;">
-        <img src="./assets/ChatUp.jpg" width="100%" style="border-radius:10px; margin-bottom:12px;">
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <a href="https://github.com/kamlesh0928/chatup" target="_blank">
+          <img src="./assets/ChatUp.jpg" width="100%" style="border-radius:10px;">
+        </a>
+      </td>
+      <td width="50%" valign="top" style="padding-left: 20px;">
+        <h3>ChatUp</h3>
+        <p>A real-time messaging application with user authentication and instant messaging capabilities.</p>
+        <p><b>Tech Stack:</b> Next.js, Firebase, Tailwind CSS</p>
         <a href="https://github.com/kamlesh0928/chatup" target="_blank">
           <img src="./assets/View_Button.png" width="85">
         </a>
@@ -45,11 +79,10 @@
     </tr>
   </table>
 
-  <div style="margin-top: 28px;">
-    <a href="https://github.com/kamlesh0928?tab=repositories" target="_blank">
-      <img src="./assets/View_More.png" width="150">
-    </a>
-  </div>
+  <br>
+  <a href="https://github.com/kamlesh0928?tab=repositories" target="_blank">
+    <img src="./assets/View_More.png" width="150">
+  </a>
 </div>
 
 <br>
@@ -62,7 +95,3 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=kamlesh0928&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kamlesh0928&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br>
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kamlesh5242) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kamlesh09285242) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamleshprajapati0928@gmail.com) 
-<br>
-<p><b><i>You can reach out anytime for freelance work, or discussions.</i></b></p>

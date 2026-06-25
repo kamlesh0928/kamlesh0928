@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://drive.google.com/file/d/1sL1Jvs6AdM3o543WtO4WB7_9JqhRdUJc/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1cw1yXTR_OQMqi7FiqcGJA7-W0zSrE0nJ/view?usp=sharing" target="_blank">
     <img src="./assets/Hero.png" alt="Kamlesh Prajapati - Full Stack Developer" style="max-width:100%; border-radius:12px;">
   </a>
 </p>
